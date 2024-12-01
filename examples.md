@@ -24,7 +24,7 @@ Good: "Please help me write a professional email to decline a vendor's proposal.
 ```
 Bad: "Analyze this data."
 
-Good: "I have a CSV file with monthly sales data for the past year. Please analyze the following aspects:
+Good: "I have a CSV file with monthly sales data for the past year. Please analyze:
 - Identify seasonal trends
 - Calculate month-over-month growth rates
 - Highlight the top 3 performing months
@@ -48,7 +48,7 @@ Good: "Please analyze this research article on renewable energy, focusing on:
 ```
 Bad: "Write a sorting function."
 
-Good: "Please write a Python function that implements merge sort with the following requirements:
+Good: "Please write a Python function that implements merge sort with:
 - Handle both numeric and string inputs
 - Include error handling for invalid inputs
 - Add comments explaining the algorithm's steps
@@ -66,58 +66,10 @@ Good: "Please review this Python script that processes customer data:
 - Recommend best practices for error handling"
 ```
 
-## Task Breakdown Examples
-
-### 1. Project Planning
-```
-Bad: "Help me plan a website."
-
-Good: "I need help breaking down a website development project into phases:
-1. First, outline the main components needed
-2. Then, create a list of technical requirements
-3. Finally, suggest a timeline for each phase
-Please focus on a small business website with e-commerce capabilities."
-```
-
-### 2. Research Organization
-```
-Bad: "Help me research AI."
-
-Good: "I'm researching AI ethics. Please help me:
-1. Identify the main subtopics to explore
-2. Suggest credible sources for each subtopic
-3. Create an outline for organizing the findings
-4. Propose key questions to address in each section"
-```
-
-## Iterative Refinement Examples
-
-### 1. Content Improvement
-```
-Initial: "Please write a technical guide about Docker containers."
-
-Refinement 1: "Could you add more examples of common Docker commands?"
-
-Refinement 2: "Please include a troubleshooting section for common issues."
-
-Refinement 3: "Can you simplify the language for beginners?"
-```
-
-### 2. Analysis Deepening
-```
-Initial: "Analyze the impact of remote work."
-
-Refinement 1: "Could you focus specifically on productivity metrics?"
-
-Refinement 2: "Please add information about team collaboration tools."
-
-Refinement 3: "Can you include challenges and solutions for managing remote teams?"
-```
-
 ## Best Practices Demonstrated
 
 1. **Specificity**
-   - Always include concrete details
+   - Include concrete details
    - Specify format, length, or style requirements
    - Define the target audience
 
@@ -129,14 +81,9 @@ Refinement 3: "Can you include challenges and solutions for managing remote team
 3. **Structured Requests**
    - Break down complex requests into steps
    - Use numbered lists or bullet points
-   - Clearly separate different aspects of the request
+   - Clearly separate different aspects
 
-4. **Iterative Approach**
-   - Start with a basic request
-   - Build upon the initial response
-   - Refine specific aspects as needed
-
-## Common Patterns to Follow
+## Common Patterns
 
 1. **Format Specification**
    ```
